@@ -1,0 +1,10 @@
+#!/bin/sh
+#case "$1" in
+#    --popup)
+#        notify-send "Memory (%)" "$(ps axch -o cmd:10,pmem k -pmem | head | awk '$0=$0"%"' )"
+#        ;;
+#    *)
+	    echo "$(sudo dmesg | grep oom-killer) |  $(free -m | awk '/^Mem:/ {printf("%dMiB %.2f%", ($5 + $7), (($5 + $7)/$2)*100"%")}') $(free -m | awk '/^Swap:/ {print " | Swap used: " $3 "M"}')"
+	#$free | awk 'FNR == 3 {print $4/($3+$4)*100}' 
+#        ;;
+#esac
