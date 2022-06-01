@@ -1,0 +1,18 @@
+[module/spacing]
+type = custom/text
+content = "  "
+
+[module/sep]
+type = custom/text
+content = "⁜"
+
+content-font = 3
+content-padding = 1
+
+
+[module/tabsep]
+type = custom/text
+content = " "
+
+content-font = 2
+content-padding = 4

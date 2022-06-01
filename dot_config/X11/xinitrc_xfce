@@ -1,0 +1,4 @@
+exec microsoft-edge-stable &
+exec nitrogen --restore &
+
+exec xfce4-session
