@@ -1,0 +1,18 @@
+[color]
+Background    = #292D3E
+Foreground    = #A6ACCD
+Text          = #CDFEFF
+SelBackground = #717CB470
+SelForeground = #FFFFFF
+Active        = #414863
+Border        = #2b2a3e
+Highlight     = #444267
+Tree          = #8B6D9C
+PurpleColor   = #C859FF
+CyanColor     = #89ddff
+GrayColor     = #676E95
+W_BColor      = #eeffff
+BlackColor    = #000000
+Transparent   = #00FFFFFF
+PinkColor     = #E68AD6
+BrightCyan    = #00ffff
