@@ -1,8 +1,7 @@
 # dotfiles
 
-<div>
-    <img src="https://imgur.com/a/hCnHJ8X" alt="setup preview">
-</div>
+<a href="https://imgur.com/js1ekDY"><img src="https://i.imgur.com/js1ekDY.png" title="source: imgur.com" /></a>
+
 <br>
 
 I am still working on this so there are still things to change.
