@@ -1,0 +1,121 @@
+#! /bin/sh
+
+# Restore wallpaper
+nitrogen --restore
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+$HOME/.config/polybar/launch.sh --forest
+
+workspaces() {
+	name=1
+	for monitor in `bspc query -M`; do
+		bspc monitor ${monitor} -n "$name" -d 'term' 'code' 'web' 'extras' 'graphics'
+		let name++
+	done
+}
+workspaces
+
+bspc config border_width         2
+bspc config window_gap           5
+bspc config split_ratio          0.55
+
+bspc config focused_border_color "#CC5C77"
+bspc config normal_border_color "#712644"
+bspc config active_border_color "#691518"
+
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+bspc config paddingless_monocle true
+bspc config single_monocle false
+bspc config focus_follows_pointer true
+
+# fix pointer
+xsetroot -cursor_name left_ptr
+
+#workspace 6
+declare -a games=(pl.skmedix.bootstrap.Bootstrap "Stardew Valley")
+for i in ${games[@]}; do
+	bspc rule -a $i desktop='^6' follow=on focus=on state=floating; done
+
+# workspace 1 (Terminals)
+declare -a terminal=(Alacritty st)
+for i in ${terminal[@]}; do
+    bspc rule -a $i desktop='^1' follow=on focus=on; done
+
+# workspace 3 (Internet Browser)
+declare -a web=(web Chromium chromium qutebrowser midori Midori firefoxdeveloperedition)
+for i in ${web[@]}; do
+    bspc rule -a $i desktop='^3' follow=on focus=on; done
+
+# workspace 4 (Files)
+declare -a filem=(Thunar Pcmanfm qBittorrent)
+for i in ${filem[@]}; do
+    bspc rule -a $i desktop='^4' follow=on focus=on; done
+
+# workspace 2 (Text Editor)
+declare -a office=(jetbrains-idea-ce code-oss jetbrains-idea-ue Java java Code Geany Eclipse emacs Emacs)
+for i in ${office[@]}; do
+    bspc rule -a $i desktop='^2' follow=on focus=on; done
+
+# workspace 7 (Media)
+declare -a media=(krita vlc spotify Spotify obs mpv mplayer lxmusic Gimp Gimp-2.10 \
+"VirtualBox Manager")
+for i in ${media[@]}; do
+    bspc rule -a $i desktop='^7' follow=on focus=on; done
+
+# workspace 4 (Settings)
+declare -a settings=(GParted Lxappearance Lxtask Lxrandr Arandr \
+Pavucontrol Xfce4-settings-manager)
+for i in ${settings[@]}; do
+	bspc rule -a $i desktop='^4' follow=on focus=on; done
+
+# workspace 3 (Socials)
+declare -a gamedev=(discord)
+for i in ${gamedev[@]}; do
+	bspc rule -a $i desktop='^3' follow=on focus=on; done
+
+# floating windows
+declare -a floats=(Unityhub processHandler.Window Alafloat jetbrains-idea-ue jetbrains-idea-ce Lxappearance Arandr \
+Viewnior Pcmanfm feh Nm-connection-editor Matplotlib Yad ksnip Java java)
+for i in ${floats[@]}; do
+	bspc rule -a $i state=floating follow=on focus=on; done
+
+# tiling windows
+#
+declare -a tiles=(emacs Emacs)
+for i in ${tiles[@]}; do
+	bspc rule -a $i state=tiled follow=on focus=on; done
+
+## Autostart
+
+# Kill if already running
+killall -9 picom sxhkd dunst &
+
+# Launch Conkeww
+#sed -i "s/colors\/color-.*/colors\/color-tokyo.yuck\")/g" $HOME/.config/conkeww/eww.yuck
+#eww --config $HOME/.config/conkeww/ open conkeww-main
+
+# Launch notification daemon
+dunst -config $HOME/.config/bspwm/dunstrc &
+
+# Launch screenshot tool
+flameshot &
+
+# start compositor
+while pgrep -u $UID -x picom >/dev/null; do sleep 1; done
+picom --config $HOME/.config/picom/picom.conf &
+
+# SXHKD
+sxhkd -m -1 &
+
+# Manage cursor theme
+xsetroot -cursor_name left_ptr &
+
+# Load and merge Xresources
+xrdb -merge ~/.Xresources &
+
+# Emacs daemon
+/usr/bin/emacs --daemon > /dev/null 2>&1
+
+# BSPWM config
+bspc config -m focused top_padding 30 &
