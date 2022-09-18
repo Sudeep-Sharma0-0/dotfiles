@@ -52,6 +52,11 @@ export _JAVA_AWT_WM_NONREPARTENTING=1
 export PYTHONSTARTUP="${XDG_CONFIG_HOME}/python/pythonrc"
 export WINEPREFIX="$XDG_DATA_HOME"/wine
 
+export QT_STYLE_OVERRIDE="gtk3"
+
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+
 alias wget=wget --hsts-file="$XDG_DATA_HOME/wget-hsts"
 alias svn="svn --config-dir $XDG_CONFIG_HOME/subversion"
 

@@ -1,12 +1,492 @@
-sw_volume: 100
+sw_volume: 96
 audio_device_state:1:pulse audio
-state: stop
-random: 0
-repeat: 0
+audio_device_state:1:PipeWire Sound Server
+state: play
+current: 405
+time: 120.047000
+random: 1
+repeat: 1
 single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+0:Mix/Awesome Mix Main/063 - XXXTENTACION - changes.mp3
+1:Mix/Awesome Mix Main/158 - Anne-Marie - 2002.mp3
+2:Mix/Awesome Mix Main/104 - Bipul Chettri - Aashish.mp3
+3:Mix/Awesome Mix Main/108 - Prabesh Kumar Shrestha - Aau Timi.mp3
+4:Mix/Awesome Mix Main/093 - Sugam Pokhrel - Kasham Ho Kasham.mp3
+5:Mix/Awesome Mix Main/021 - Marshmello - Project Dreams.mp3
+6:Mix/Awesome Mix Main/065 - Ace Aura - Rise.mp3
+7:Mix/Awesome Mix Main/020 - Marshmello - Alone.mp3
+8:Mix/Awesome Mix Main/017 - Alan Walker - Alone, Pt. II.mp3
+9:Mix/Awesome Mix Main/139 - Swoopna Suman - Baacha Bhayo.mp3
+10:Mix/Awesome Mix Main/168 - SUSHANT KC - Baimani.mp3
+11:Mix/Awesome Mix Main/074 - Shashwot Khadka - Batash.mp3
+12:Mix/Awesome Mix Main/005 - Lewis Capaldi - Before You Go.mp3
+13:Mix/Awesome Mix Main/095 - Nepathya - Taal Ko Pani.mp3
+14:Mix/Awesome Mix Main/091 - Pramod Kharel - Bhupu Maya 3.mp3
+15:Mix/Awesome Mix Main/101 - Tara Prakash Limbu - Piratiko Mitho Tirshana.mp3
+16:Mix/Awesome Mix Main/045 - Lewis Capaldi - Someone You Loved.mp3
+17:Mix/Awesome Mix Main/050 - Ariana Grande - Last Christmas.mp3
+18:Mix/Awesome Mix Main/048 - Ariana Grande - Snow In California.mp3
+19:Mix/Awesome Mix Main/051 - Lady Gaga - Rain On Me.mp3
+20:Mix/Awesome Mix Main/151 - HBN Kismat - Chunumunu.mp3
+21:Mix/Awesome Mix Main/141 - Ed Sheeran - Happier.mp3
+22:Mix/Awesome Mix Main/175 - Momina Mustehsan - Tera Woh Pyar (Nawazishein Karam).mp3
+23:Mix/Awesome Mix Main/046 - Morgan Evans - Young Again.mp3
+24:Mix/Awesome Mix Main/056 - ILLENIUM - Crashing.mp3
+25:Mix/Awesome Mix Main/012 - Marshmello - FRIENDS.mp3
+26:Mix/Awesome Mix Main/049 - Ariana Grande - Thinking Bout You.mp3
+27:Mix/Awesome Mix Main/035 - Alan Walker - Darkside.mp3
+28:Mix/Awesome Mix Main/089 - Pramod Kharel - Dhoka Diyau Timle.mp3
+29:Mix/Awesome Mix Main/033 - Sophia Somajo - Diamond Heart.mp3
+30:Mix/Awesome Mix Main/036 - Alan Walker - Lost Control.mp3
+31:Mix/Awesome Mix Main/034 - Alan Walker - Lily.mp3
+32:Mix/Awesome Mix Main/038 - Alan Walker - Different World (feat. CORSAK).mp3
+33:Mix/Awesome Mix Main/040 - Alan Walker - Don't You Hold Me Down.mp3
+34:Mix/Awesome Mix Main/080 - CD Vijaya Adhikari - Doori Majboori.mp3
+35:Mix/Awesome Mix Main/025 - DJ Snake - Let Me Love You.mp3
+36:Mix/Awesome Mix Main/031 - K-391 - End of Time.mp3
+37:Mix/Awesome Mix Main/129 - Imagine Dragons - Believer.mp3
+38:Mix/Awesome Mix Main/054 - Alan Walker - Fake A Smile.mp3
+39:Mix/Awesome Mix Main/127 - Ellie Goulding - Love Me Like You Do (From _Fifty Shades Of Grey_).mp3
+40:Mix/Awesome Mix Main/087 - Kamal Khatri - Fikka Fikka.mp3
+41:Mix/Awesome Mix Main/062 - One Direction - Night Changes.mp3
+42:Mix/Awesome Mix Main/086 - Melina Rai - Ajambari.mp3
+43:Mix/Awesome Mix Main/130 - DJ Khaled - I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne).mp3
+44:Mix/Awesome Mix Main/156 - Shawn Mendes - Imagination.mp3
+45:Mix/Awesome Mix Main/016 - Marshmello - Happier.mp3
+46:Mix/Awesome Mix Main/137 - Fredji - Happy Life.mp3
+47:Mix/Awesome Mix Main/014 - Alan Walker - Heading Home.mp3
+48:Mix/Awesome Mix Main/058 - Alan Walker - Hello World.mp3
+49:Mix/Awesome Mix Main/026 - Post Malone - Goodbyes.mp3
+50:Mix/Awesome Mix Main/042 - Alan Walker - Ignite.mp3
+51:Mix/Awesome Mix Main/055 - ILLENIUM - In Your Arms (Alan Walker Remix).mp3
+52:Mix/Awesome Mix Main/176 - Ariana Grande - God is a woman.mp3
+53:Mix/Awesome Mix Main/043 - Zeus X Crona - Invisible.mp3
+54:Mix/Awesome Mix Main/007 - Alex & Sierra - Little Do You Know.mp3
+55:Mix/Awesome Mix Main/119 - ITZY - DALLA DALLA.mp3
+56:Mix/Awesome Mix Main/147 - Sugam Pokhrel - Jindagi Nai Bhandina (From _Ae Mero Hajur 3_).mp3
+57:Mix/Awesome Mix Main/010 - Steve Aoki - Just Hold On.mp3
+58:Mix/Awesome Mix Main/107 - DJ Bishow - K Huncha Bhanera.mp3
+59:Mix/Awesome Mix Main/120 - Hemanta Rana - Dubo Phulyo.mp3
+60:Mix/Awesome Mix Main/150 - Ashmita Adhikari - KAFAL KAMLA (feat. Zanak Tamrakar).mp3
+61:Mix/Awesome Mix Main/077 - Yabesh Thapa - Laakhau Hajarau.mp3
+62:Mix/Awesome Mix Main/022 - League Of Legends - Legends Never Die - (Remix).mp3
+63:Mix/Awesome Mix Main/028 - Avicii - Lonely Together (Alan Walker Remix).mp3
+64:Mix/Awesome Mix Main/092 - Pramod Kharel - Ma Bachekai.mp3
+65:Mix/Awesome Mix Main/105 - Sugam Pokhrel - Kaha Chha Ra.mp3
+66:Mix/Awesome Mix Main/083 - Varsha Thapa - Maaya.mp3
+67:Mix/Awesome Mix Main/027 - Culture Code - Make Me Move.mp3
+68:Mix/Awesome Mix Main/106 - Rishi Khadka - Malai Maridinu.mp3
+69:Mix/Awesome Mix Main/024 - Miley Cyrus - Malibu (Alan Walker Remix).mp3
+70:Mix/Awesome Mix Main/112 - Sanup Poudel - Daiba Hey.mp3
+71:Mix/Awesome Mix Main/122 - Melina Rai - Maruni.mp3
+72:Mix/Awesome Mix Main/019 - Cartoon - On & On.mp3
+73:Mix/Awesome Mix Main/169 - Subani Moktan - Mathilo Lekma (Selo Tone).mp3
+74:Mix/Awesome Mix Main/066 - Ashutosh KC - Maya.mp3
+75:Mix/Awesome Mix Main/068 - Ayush Gauchan - Maya.mp3
+76:Mix/Awesome Mix Main/088 - Bipul Chettri - Junkeri.mp3
+77:Mix/Awesome Mix Main/073 - SUSHANT KC - Muskurayera.mp3
+78:Mix/Awesome Mix Main/084 - SUSHANT KC - Behos.mp3
+79:Mix/Awesome Mix Main/076 - Rohit Shakya - Mellow.mp3
+80:Mix/Awesome Mix Main/148 - Cadmium - Melody.mp3
+81:Mix/Awesome Mix Main/059 - Alan Walker - Faded.mp3
+82:Mix/Awesome Mix Main/081 - Pramod Kharel - Mero Aafno Bhannu, Pt. 1.mp3
+83:Mix/Awesome Mix Main/085 - The Edge Band - Nachahe Ko Hoina.mp3
+84:Mix/Awesome Mix Main/159 - Sophia Angeles - Miss You More.mp3
+85:Mix/Awesome Mix Main/096 - Raju Lama - Timilai Dekhera.mp3
+86:Mix/Awesome Mix Main/099 - Raju Lama - Parkhaima.mp3
+87:Mix/Awesome Mix Main/172 - Ariana Grande - Problem.mp3
+88:Mix/Awesome Mix Main/178 - Ariana Grande - One Last Time.mp3
+89:Mix/Awesome Mix Main/180 - Ariana Grande - Break Free.mp3
+90:Mix/Awesome Mix Main/131 - Bri Tolani - Why Do I_.mp3
+91:Mix/Awesome Mix Main/023 - Alan Walker - Force.mp3
+92:Mix/Awesome Mix Main/097 - Tarzan Lepcha - Samjhana Birsana.mp3
+93:Mix/Awesome Mix Main/126 - Bruno Mars - Just the Way You Are.mp3
+94:Mix/Awesome Mix Main/008 - Shawn Mendes - Treat You Better.mp3
+95:Mix/Awesome Mix Main/138 - One Direction - What Makes You Beautiful.mp3
+96:Mix/Awesome Mix Main/177 - Calvin Harris - One Kiss.mp3
+97:Mix/Awesome Mix Main/018 - Imagine Dragons - Bad Liar.mp3
+98:Mix/Awesome Mix Main/001 - Alan Walker - Paradise.mp3
+99:Mix/Awesome Mix Main/142 - Pratap Das - Phool Hoina.mp3
+100:Mix/Awesome Mix Main/079 - Sajjan Raj Vaidya - Phutki Jaaney Jovan.mp3
+101:Mix/Awesome Mix Main/102 - Aashish Sachin - Pirim Nalaune.mp3
+102:Mix/Awesome Mix Main/011 - K-391 - Play.mp3
+103:Mix/Awesome Mix Main/164 - Dua Lipa - Kiss and Make Up.mp3
+104:Mix/Awesome Mix Main/143 - Ariana Grande - 34+35.mp3
+105:Mix/Awesome Mix Main/053 - Ariana Grande - positions.mp3
+106:Mix/Awesome Mix Main/146 - Pramod Kharel - Ma Bina Kasai Kasailai Muskil Chha Pokharama.mp3
+107:Mix/Awesome Mix Main/115 - salem ilese - PS5.mp3
+108:Mix/Awesome Mix Main/128 - Justin Bieber - Sorry.mp3
+109:Mix/Awesome Mix Main/082 - Netra Aryal - Ram Ram Marauti.mp3
+110:Mix/Awesome Mix Main/071 - Brijesh Shrestha - Rang (feat. Nikhita Thapa).mp3
+111:Mix/Awesome Mix Main/103 - SUSHANT KC - Risaune Bhaye.mp3
+112:Mix/Awesome Mix Main/135 - Alan Walker - Routine.mp3
+113:Mix/Awesome Mix Main/123 - Saugat Sayar - Najalau Byarthai Chhati.mp3
+114:Mix/Awesome Mix Main/109 - Sajjan Raj Vaidya - Sasto Mutu.mp3
+115:Mix/Awesome Mix Main/075 - SUSHANT KC - Sathi.mp3
+116:Mix/Awesome Mix Main/047 - The Weeknd - Save Your Tears (Remix).mp3
+117:Mix/Awesome Mix Main/064 - A Great Big World - Say Something.mp3
+118:Mix/Awesome Mix Main/061 - James Arthur - Say You Won't Let Go.mp3
+119:Mix/Awesome Mix Main/171 - Madison Beer - Selfish (Alan Walker Remix).mp3
+120:Mix/Awesome Mix Main/113 - DJ Snake - SG.mp3
+121:Mix/Awesome Mix Main/170 - Avyukkta - Shreemaan Gambhira.mp3
+122:Mix/Awesome Mix Main/161 - Luis Fonsi - Despacito.mp3
+123:Mix/Awesome Mix Main/039 - Alan Walker - Sing Me to Sleep.mp3
+124:Mix/Awesome Mix Main/110 - Ekdev Limbu - Sirful 2.mp3
+125:Mix/Awesome Mix Main/098 - Nepathya - Sirfula Siraima.mp3
+126:Mix/Awesome Mix Main/136 - Elektronomia - Sky High.mp3
+127:Mix/Awesome Mix Main/002 - The Kid LAROI - STAY.mp3
+128:Mix/Awesome Mix Main/125 - Ina Wroldsen - Strongest (Alan Walker Remix).mp3
+129:Mix/Awesome Mix Main/153 - Ariana Grande - Stuck with U.mp3
+130:Mix/Awesome Mix Main/070 - Apurva Tamang - Sunideu.mp3
+131:Mix/Awesome Mix Main/118 - SUNMI - Gashina.mp3
+132:Mix/Awesome Mix Main/133 - Weird Genius - Sweet Scar.mp3
+133:Mix/Awesome Mix Main/006 - Wiz Khalifa - See You Again (feat. Charlie Puth).mp3
+134:Mix/Awesome Mix Main/116 - Samir Shrestha - Thamana Haat.mp3
+135:Mix/Awesome Mix Main/100 - Melina Rai - Aaja Hamro Bhet Bhako Dina.mp3
+136:Mix/Awesome Mix Main/132 - Alan Walker - The Drum.mp3
+137:Mix/Awesome Mix Main/029 - Axel Johansson - The River.mp3
+138:Mix/Awesome Mix Main/152 - Sam Smith - Too Good At Goodbyes.mp3
+139:Mix/Awesome Mix Main/173 - Akash Khadka - Timi Bhayera.mp3
+140:Mix/Awesome Mix Main/145 - Saroj Pokharel - Timi Binako Jindagi.mp3
+141:Mix/Awesome Mix Main/094 - Swoopna Suman - Timro Aankha.mp3
+142:Mix/Awesome Mix Main/124 - Milan Newar - Timro Man Badliyecha - Bale Entertainment.mp3
+143:Mix/Awesome Mix Main/032 - Alan Walker - Tired (Alan Walker Remix).mp3
+144:Mix/Awesome Mix Main/044 - Avicii - Wake Me Up.mp3
+145:Mix/Awesome Mix Main/067 - Various Artists - Kasari Bhanu.mp3
+146:Mix/Awesome Mix Main/078 - Various Artists - Ma Timro.mp3
+147:Mix/Awesome Mix Main/174 - Bilal Saeed - Uchiyaan Dewaraan.mp3
+148:Mix/Awesome Mix Main/072 - B-8eight - K Yo Maya Ho.mp3
+149:Mix/Awesome Mix Main/003 - Ed Sheeran - Perfect.mp3
+150:Mix/Awesome Mix Main/015 - Steve Aoki - Waste It On Me (feat. BTS).mp3
+151:Mix/Awesome Mix Main/155 - Johnny Orlando - What If (I Told You I Like You).mp3
+152:Mix/Awesome Mix Main/160 - Jex - Where We Started.mp3
+153:Mix/Awesome Mix Main/009 - Selena Gomez - Wolves.mp3
+154:Mix/Awesome Mix Main/013 - The Chainsmokers - Takeaway (feat. Lennon Stella).mp3
+155:Mix/Awesome Mix Main/041 - Alan Walker - World We Used To Know.mp3
+156:Mix/Awesome Mix Main/090 - Pramod Kharel - Ye Maya.mp3
+157:Mix/Awesome Mix Main/052 - Ariana Grande - Piano.mp3
+158:Mix/Awesome Mix Main/179 - Ariana Grande - The Way.mp3
+159:Mix/Awesome Mix Main/063 - XXXTENTACION - changes.mp3
+160:Mix/Awesome Mix Main/158 - Anne-Marie - 2002.mp3
+161:Mix/Awesome Mix Main/104 - Bipul Chettri - Aashish.mp3
+162:Mix/Awesome Mix Main/108 - Prabesh Kumar Shrestha - Aau Timi.mp3
+163:Mix/Awesome Mix Main/093 - Sugam Pokhrel - Kasham Ho Kasham.mp3
+164:Mix/Awesome Mix Main/021 - Marshmello - Project Dreams.mp3
+165:Mix/Awesome Mix Main/065 - Ace Aura - Rise.mp3
+166:Mix/Awesome Mix Main/020 - Marshmello - Alone.mp3
+167:Mix/Awesome Mix Main/017 - Alan Walker - Alone, Pt. II.mp3
+168:Mix/Awesome Mix Main/139 - Swoopna Suman - Baacha Bhayo.mp3
+169:Mix/Awesome Mix Main/168 - SUSHANT KC - Baimani.mp3
+170:Mix/Awesome Mix Main/074 - Shashwot Khadka - Batash.mp3
+171:Mix/Awesome Mix Main/005 - Lewis Capaldi - Before You Go.mp3
+172:Mix/Awesome Mix Main/095 - Nepathya - Taal Ko Pani.mp3
+173:Mix/Awesome Mix Main/091 - Pramod Kharel - Bhupu Maya 3.mp3
+174:Mix/Awesome Mix Main/101 - Tara Prakash Limbu - Piratiko Mitho Tirshana.mp3
+175:Mix/Awesome Mix Main/045 - Lewis Capaldi - Someone You Loved.mp3
+176:Mix/Awesome Mix Main/050 - Ariana Grande - Last Christmas.mp3
+177:Mix/Awesome Mix Main/048 - Ariana Grande - Snow In California.mp3
+178:Mix/Awesome Mix Main/051 - Lady Gaga - Rain On Me.mp3
+179:Mix/Awesome Mix Main/151 - HBN Kismat - Chunumunu.mp3
+180:Mix/Awesome Mix Main/141 - Ed Sheeran - Happier.mp3
+181:Mix/Awesome Mix Main/175 - Momina Mustehsan - Tera Woh Pyar (Nawazishein Karam).mp3
+182:Mix/Awesome Mix Main/046 - Morgan Evans - Young Again.mp3
+183:Mix/Awesome Mix Main/056 - ILLENIUM - Crashing.mp3
+184:Mix/Awesome Mix Main/012 - Marshmello - FRIENDS.mp3
+185:Mix/Awesome Mix Main/049 - Ariana Grande - Thinking Bout You.mp3
+186:Mix/Awesome Mix Main/035 - Alan Walker - Darkside.mp3
+187:Mix/Awesome Mix Main/089 - Pramod Kharel - Dhoka Diyau Timle.mp3
+188:Mix/Awesome Mix Main/033 - Sophia Somajo - Diamond Heart.mp3
+189:Mix/Awesome Mix Main/036 - Alan Walker - Lost Control.mp3
+190:Mix/Awesome Mix Main/034 - Alan Walker - Lily.mp3
+191:Mix/Awesome Mix Main/038 - Alan Walker - Different World (feat. CORSAK).mp3
+192:Mix/Awesome Mix Main/040 - Alan Walker - Don't You Hold Me Down.mp3
+193:Mix/Awesome Mix Main/080 - CD Vijaya Adhikari - Doori Majboori.mp3
+194:Mix/Awesome Mix Main/025 - DJ Snake - Let Me Love You.mp3
+195:Mix/Awesome Mix Main/031 - K-391 - End of Time.mp3
+196:Mix/Awesome Mix Main/129 - Imagine Dragons - Believer.mp3
+197:Mix/Awesome Mix Main/054 - Alan Walker - Fake A Smile.mp3
+198:Mix/Awesome Mix Main/127 - Ellie Goulding - Love Me Like You Do (From _Fifty Shades Of Grey_).mp3
+199:Mix/Awesome Mix Main/087 - Kamal Khatri - Fikka Fikka.mp3
+200:Mix/Awesome Mix Main/062 - One Direction - Night Changes.mp3
+201:Mix/Awesome Mix Main/086 - Melina Rai - Ajambari.mp3
+202:Mix/Awesome Mix Main/130 - DJ Khaled - I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne).mp3
+203:Mix/Awesome Mix Main/156 - Shawn Mendes - Imagination.mp3
+204:Mix/Awesome Mix Main/016 - Marshmello - Happier.mp3
+205:Mix/Awesome Mix Main/137 - Fredji - Happy Life.mp3
+206:Mix/Awesome Mix Main/014 - Alan Walker - Heading Home.mp3
+207:Mix/Awesome Mix Main/058 - Alan Walker - Hello World.mp3
+208:Mix/Awesome Mix Main/026 - Post Malone - Goodbyes.mp3
+209:Mix/Awesome Mix Main/042 - Alan Walker - Ignite.mp3
+210:Mix/Awesome Mix Main/055 - ILLENIUM - In Your Arms (Alan Walker Remix).mp3
+211:Mix/Awesome Mix Main/176 - Ariana Grande - God is a woman.mp3
+212:Mix/Awesome Mix Main/043 - Zeus X Crona - Invisible.mp3
+213:Mix/Awesome Mix Main/007 - Alex & Sierra - Little Do You Know.mp3
+214:Mix/Awesome Mix Main/119 - ITZY - DALLA DALLA.mp3
+215:Mix/Awesome Mix Main/147 - Sugam Pokhrel - Jindagi Nai Bhandina (From _Ae Mero Hajur 3_).mp3
+216:Mix/Awesome Mix Main/010 - Steve Aoki - Just Hold On.mp3
+217:Mix/Awesome Mix Main/107 - DJ Bishow - K Huncha Bhanera.mp3
+218:Mix/Awesome Mix Main/120 - Hemanta Rana - Dubo Phulyo.mp3
+219:Mix/Awesome Mix Main/150 - Ashmita Adhikari - KAFAL KAMLA (feat. Zanak Tamrakar).mp3
+220:Mix/Awesome Mix Main/077 - Yabesh Thapa - Laakhau Hajarau.mp3
+221:Mix/Awesome Mix Main/022 - League Of Legends - Legends Never Die - (Remix).mp3
+222:Mix/Awesome Mix Main/028 - Avicii - Lonely Together (Alan Walker Remix).mp3
+223:Mix/Awesome Mix Main/092 - Pramod Kharel - Ma Bachekai.mp3
+224:Mix/Awesome Mix Main/105 - Sugam Pokhrel - Kaha Chha Ra.mp3
+225:Mix/Awesome Mix Main/083 - Varsha Thapa - Maaya.mp3
+226:Mix/Awesome Mix Main/027 - Culture Code - Make Me Move.mp3
+227:Mix/Awesome Mix Main/106 - Rishi Khadka - Malai Maridinu.mp3
+228:Mix/Awesome Mix Main/024 - Miley Cyrus - Malibu (Alan Walker Remix).mp3
+229:Mix/Awesome Mix Main/112 - Sanup Poudel - Daiba Hey.mp3
+230:Mix/Awesome Mix Main/122 - Melina Rai - Maruni.mp3
+231:Mix/Awesome Mix Main/019 - Cartoon - On & On.mp3
+232:Mix/Awesome Mix Main/169 - Subani Moktan - Mathilo Lekma (Selo Tone).mp3
+233:Mix/Awesome Mix Main/066 - Ashutosh KC - Maya.mp3
+234:Mix/Awesome Mix Main/068 - Ayush Gauchan - Maya.mp3
+235:Mix/Awesome Mix Main/088 - Bipul Chettri - Junkeri.mp3
+236:Mix/Awesome Mix Main/073 - SUSHANT KC - Muskurayera.mp3
+237:Mix/Awesome Mix Main/084 - SUSHANT KC - Behos.mp3
+238:Mix/Awesome Mix Main/076 - Rohit Shakya - Mellow.mp3
+239:Mix/Awesome Mix Main/148 - Cadmium - Melody.mp3
+240:Mix/Awesome Mix Main/059 - Alan Walker - Faded.mp3
+241:Mix/Awesome Mix Main/081 - Pramod Kharel - Mero Aafno Bhannu, Pt. 1.mp3
+242:Mix/Awesome Mix Main/085 - The Edge Band - Nachahe Ko Hoina.mp3
+243:Mix/Awesome Mix Main/159 - Sophia Angeles - Miss You More.mp3
+244:Mix/Awesome Mix Main/096 - Raju Lama - Timilai Dekhera.mp3
+245:Mix/Awesome Mix Main/099 - Raju Lama - Parkhaima.mp3
+246:Mix/Awesome Mix Main/172 - Ariana Grande - Problem.mp3
+247:Mix/Awesome Mix Main/178 - Ariana Grande - One Last Time.mp3
+248:Mix/Awesome Mix Main/180 - Ariana Grande - Break Free.mp3
+249:Mix/Awesome Mix Main/131 - Bri Tolani - Why Do I_.mp3
+250:Mix/Awesome Mix Main/023 - Alan Walker - Force.mp3
+251:Mix/Awesome Mix Main/097 - Tarzan Lepcha - Samjhana Birsana.mp3
+252:Mix/Awesome Mix Main/126 - Bruno Mars - Just the Way You Are.mp3
+253:Mix/Awesome Mix Main/008 - Shawn Mendes - Treat You Better.mp3
+254:Mix/Awesome Mix Main/138 - One Direction - What Makes You Beautiful.mp3
+255:Mix/Awesome Mix Main/177 - Calvin Harris - One Kiss.mp3
+256:Mix/Awesome Mix Main/018 - Imagine Dragons - Bad Liar.mp3
+257:Mix/Awesome Mix Main/001 - Alan Walker - Paradise.mp3
+258:Mix/Awesome Mix Main/142 - Pratap Das - Phool Hoina.mp3
+259:Mix/Awesome Mix Main/079 - Sajjan Raj Vaidya - Phutki Jaaney Jovan.mp3
+260:Mix/Awesome Mix Main/102 - Aashish Sachin - Pirim Nalaune.mp3
+261:Mix/Awesome Mix Main/011 - K-391 - Play.mp3
+262:Mix/Awesome Mix Main/164 - Dua Lipa - Kiss and Make Up.mp3
+263:Mix/Awesome Mix Main/143 - Ariana Grande - 34+35.mp3
+264:Mix/Awesome Mix Main/053 - Ariana Grande - positions.mp3
+265:Mix/Awesome Mix Main/146 - Pramod Kharel - Ma Bina Kasai Kasailai Muskil Chha Pokharama.mp3
+266:Mix/Awesome Mix Main/115 - salem ilese - PS5.mp3
+267:Mix/Awesome Mix Main/128 - Justin Bieber - Sorry.mp3
+268:Mix/Awesome Mix Main/082 - Netra Aryal - Ram Ram Marauti.mp3
+269:Mix/Awesome Mix Main/071 - Brijesh Shrestha - Rang (feat. Nikhita Thapa).mp3
+270:Mix/Awesome Mix Main/103 - SUSHANT KC - Risaune Bhaye.mp3
+271:Mix/Awesome Mix Main/135 - Alan Walker - Routine.mp3
+272:Mix/Awesome Mix Main/123 - Saugat Sayar - Najalau Byarthai Chhati.mp3
+273:Mix/Awesome Mix Main/109 - Sajjan Raj Vaidya - Sasto Mutu.mp3
+274:Mix/Awesome Mix Main/075 - SUSHANT KC - Sathi.mp3
+275:Mix/Awesome Mix Main/047 - The Weeknd - Save Your Tears (Remix).mp3
+276:Mix/Awesome Mix Main/064 - A Great Big World - Say Something.mp3
+277:Mix/Awesome Mix Main/061 - James Arthur - Say You Won't Let Go.mp3
+278:Mix/Awesome Mix Main/171 - Madison Beer - Selfish (Alan Walker Remix).mp3
+279:Mix/Awesome Mix Main/113 - DJ Snake - SG.mp3
+280:Mix/Awesome Mix Main/170 - Avyukkta - Shreemaan Gambhira.mp3
+281:Mix/Awesome Mix Main/161 - Luis Fonsi - Despacito.mp3
+282:Mix/Awesome Mix Main/039 - Alan Walker - Sing Me to Sleep.mp3
+283:Mix/Awesome Mix Main/110 - Ekdev Limbu - Sirful 2.mp3
+284:Mix/Awesome Mix Main/098 - Nepathya - Sirfula Siraima.mp3
+285:Mix/Awesome Mix Main/136 - Elektronomia - Sky High.mp3
+286:Mix/Awesome Mix Main/002 - The Kid LAROI - STAY.mp3
+287:Mix/Awesome Mix Main/125 - Ina Wroldsen - Strongest (Alan Walker Remix).mp3
+288:Mix/Awesome Mix Main/153 - Ariana Grande - Stuck with U.mp3
+289:Mix/Awesome Mix Main/070 - Apurva Tamang - Sunideu.mp3
+290:Mix/Awesome Mix Main/118 - SUNMI - Gashina.mp3
+291:Mix/Awesome Mix Main/133 - Weird Genius - Sweet Scar.mp3
+292:Mix/Awesome Mix Main/006 - Wiz Khalifa - See You Again (feat. Charlie Puth).mp3
+293:Mix/Awesome Mix Main/116 - Samir Shrestha - Thamana Haat.mp3
+294:Mix/Awesome Mix Main/100 - Melina Rai - Aaja Hamro Bhet Bhako Dina.mp3
+295:Mix/Awesome Mix Main/132 - Alan Walker - The Drum.mp3
+296:Mix/Awesome Mix Main/029 - Axel Johansson - The River.mp3
+297:Mix/Awesome Mix Main/152 - Sam Smith - Too Good At Goodbyes.mp3
+298:Mix/Awesome Mix Main/173 - Akash Khadka - Timi Bhayera.mp3
+299:Mix/Awesome Mix Main/145 - Saroj Pokharel - Timi Binako Jindagi.mp3
+300:Mix/Awesome Mix Main/094 - Swoopna Suman - Timro Aankha.mp3
+301:Mix/Awesome Mix Main/124 - Milan Newar - Timro Man Badliyecha - Bale Entertainment.mp3
+302:Mix/Awesome Mix Main/032 - Alan Walker - Tired (Alan Walker Remix).mp3
+303:Mix/Awesome Mix Main/044 - Avicii - Wake Me Up.mp3
+304:Mix/Awesome Mix Main/067 - Various Artists - Kasari Bhanu.mp3
+305:Mix/Awesome Mix Main/078 - Various Artists - Ma Timro.mp3
+306:Mix/Awesome Mix Main/174 - Bilal Saeed - Uchiyaan Dewaraan.mp3
+307:Mix/Awesome Mix Main/072 - B-8eight - K Yo Maya Ho.mp3
+308:Mix/Awesome Mix Main/003 - Ed Sheeran - Perfect.mp3
+309:Mix/Awesome Mix Main/015 - Steve Aoki - Waste It On Me (feat. BTS).mp3
+310:Mix/Awesome Mix Main/155 - Johnny Orlando - What If (I Told You I Like You).mp3
+311:Mix/Awesome Mix Main/160 - Jex - Where We Started.mp3
+312:Mix/Awesome Mix Main/009 - Selena Gomez - Wolves.mp3
+313:Mix/Awesome Mix Main/013 - The Chainsmokers - Takeaway (feat. Lennon Stella).mp3
+314:Mix/Awesome Mix Main/041 - Alan Walker - World We Used To Know.mp3
+315:Mix/Awesome Mix Main/090 - Pramod Kharel - Ye Maya.mp3
+316:Mix/Awesome Mix Main/052 - Ariana Grande - Piano.mp3
+317:Mix/Awesome Mix Main/179 - Ariana Grande - The Way.mp3
+318:Mix/Awesome Mix Main/001 - Alan Walker - Paradise.mp3
+319:Mix/Awesome Mix Main/002 - The Kid LAROI - STAY.mp3
+320:Mix/Awesome Mix Main/003 - Ed Sheeran - Perfect.mp3
+321:Mix/Awesome Mix Main/005 - Lewis Capaldi - Before You Go.mp3
+322:Mix/Awesome Mix Main/006 - Wiz Khalifa - See You Again (feat. Charlie Puth).mp3
+323:Mix/Awesome Mix Main/007 - Alex & Sierra - Little Do You Know.mp3
+324:Mix/Awesome Mix Main/008 - Shawn Mendes - Treat You Better.mp3
+325:Mix/Awesome Mix Main/009 - Selena Gomez - Wolves.mp3
+326:Mix/Awesome Mix Main/010 - Steve Aoki - Just Hold On.mp3
+327:Mix/Awesome Mix Main/011 - K-391 - Play.mp3
+328:Mix/Awesome Mix Main/012 - Marshmello - FRIENDS.mp3
+329:Mix/Awesome Mix Main/013 - The Chainsmokers - Takeaway (feat. Lennon Stella).mp3
+330:Mix/Awesome Mix Main/014 - Alan Walker - Heading Home.mp3
+331:Mix/Awesome Mix Main/015 - Steve Aoki - Waste It On Me (feat. BTS).mp3
+332:Mix/Awesome Mix Main/016 - Marshmello - Happier.mp3
+333:Mix/Awesome Mix Main/017 - Alan Walker - Alone, Pt. II.mp3
+334:Mix/Awesome Mix Main/018 - Imagine Dragons - Bad Liar.mp3
+335:Mix/Awesome Mix Main/019 - Cartoon - On & On.mp3
+336:Mix/Awesome Mix Main/020 - Marshmello - Alone.mp3
+337:Mix/Awesome Mix Main/021 - Marshmello - Project Dreams.mp3
+338:Mix/Awesome Mix Main/022 - League Of Legends - Legends Never Die - (Remix).mp3
+339:Mix/Awesome Mix Main/023 - Alan Walker - Force.mp3
+340:Mix/Awesome Mix Main/024 - Miley Cyrus - Malibu (Alan Walker Remix).mp3
+341:Mix/Awesome Mix Main/025 - DJ Snake - Let Me Love You.mp3
+342:Mix/Awesome Mix Main/026 - Post Malone - Goodbyes.mp3
+343:Mix/Awesome Mix Main/027 - Culture Code - Make Me Move.mp3
+344:Mix/Awesome Mix Main/028 - Avicii - Lonely Together (Alan Walker Remix).mp3
+345:Mix/Awesome Mix Main/029 - Axel Johansson - The River.mp3
+346:Mix/Awesome Mix Main/031 - K-391 - End of Time.mp3
+347:Mix/Awesome Mix Main/032 - Alan Walker - Tired (Alan Walker Remix).mp3
+348:Mix/Awesome Mix Main/033 - Sophia Somajo - Diamond Heart.mp3
+349:Mix/Awesome Mix Main/034 - Alan Walker - Lily.mp3
+350:Mix/Awesome Mix Main/035 - Alan Walker - Darkside.mp3
+351:Mix/Awesome Mix Main/036 - Alan Walker - Lost Control.mp3
+352:Mix/Awesome Mix Main/038 - Alan Walker - Different World (feat. CORSAK).mp3
+353:Mix/Awesome Mix Main/039 - Alan Walker - Sing Me to Sleep.mp3
+354:Mix/Awesome Mix Main/040 - Alan Walker - Don't You Hold Me Down.mp3
+355:Mix/Awesome Mix Main/041 - Alan Walker - World We Used To Know.mp3
+356:Mix/Awesome Mix Main/042 - Alan Walker - Ignite.mp3
+357:Mix/Awesome Mix Main/043 - Zeus X Crona - Invisible.mp3
+358:Mix/Awesome Mix Main/044 - Avicii - Wake Me Up.mp3
+359:Mix/Awesome Mix Main/045 - Lewis Capaldi - Someone You Loved.mp3
+360:Mix/Awesome Mix Main/046 - Morgan Evans - Young Again.mp3
+361:Mix/Awesome Mix Main/047 - The Weeknd - Save Your Tears (Remix).mp3
+362:Mix/Awesome Mix Main/048 - Ariana Grande - Snow In California.mp3
+363:Mix/Awesome Mix Main/049 - Ariana Grande - Thinking Bout You.mp3
+364:Mix/Awesome Mix Main/050 - Ariana Grande - Last Christmas.mp3
+365:Mix/Awesome Mix Main/051 - Lady Gaga - Rain On Me.mp3
+366:Mix/Awesome Mix Main/052 - Ariana Grande - Piano.mp3
+367:Mix/Awesome Mix Main/053 - Ariana Grande - positions.mp3
+368:Mix/Awesome Mix Main/054 - Alan Walker - Fake A Smile.mp3
+369:Mix/Awesome Mix Main/055 - ILLENIUM - In Your Arms (Alan Walker Remix).mp3
+370:Mix/Awesome Mix Main/056 - ILLENIUM - Crashing.mp3
+371:Mix/Awesome Mix Main/058 - Alan Walker - Hello World.mp3
+372:Mix/Awesome Mix Main/059 - Alan Walker - Faded.mp3
+373:Mix/Awesome Mix Main/061 - James Arthur - Say You Won't Let Go.mp3
+374:Mix/Awesome Mix Main/062 - One Direction - Night Changes.mp3
+375:Mix/Awesome Mix Main/063 - XXXTENTACION - changes.mp3
+376:Mix/Awesome Mix Main/064 - A Great Big World - Say Something.mp3
+377:Mix/Awesome Mix Main/065 - Ace Aura - Rise.mp3
+378:Mix/Awesome Mix Main/066 - Ashutosh KC - Maya.mp3
+379:Mix/Awesome Mix Main/067 - Various Artists - Kasari Bhanu.mp3
+380:Mix/Awesome Mix Main/068 - Ayush Gauchan - Maya.mp3
+381:Mix/Awesome Mix Main/070 - Apurva Tamang - Sunideu.mp3
+382:Mix/Awesome Mix Main/071 - Brijesh Shrestha - Rang (feat. Nikhita Thapa).mp3
+383:Mix/Awesome Mix Main/072 - B-8eight - K Yo Maya Ho.mp3
+384:Mix/Awesome Mix Main/073 - SUSHANT KC - Muskurayera.mp3
+385:Mix/Awesome Mix Main/074 - Shashwot Khadka - Batash.mp3
+386:Mix/Awesome Mix Main/075 - SUSHANT KC - Sathi.mp3
+387:Mix/Awesome Mix Main/076 - Rohit Shakya - Mellow.mp3
+388:Mix/Awesome Mix Main/077 - Yabesh Thapa - Laakhau Hajarau.mp3
+389:Mix/Awesome Mix Main/078 - Various Artists - Ma Timro.mp3
+390:Mix/Awesome Mix Main/079 - Sajjan Raj Vaidya - Phutki Jaaney Jovan.mp3
+391:Mix/Awesome Mix Main/080 - CD Vijaya Adhikari - Doori Majboori.mp3
+392:Mix/Awesome Mix Main/081 - Pramod Kharel - Mero Aafno Bhannu, Pt. 1.mp3
+393:Mix/Awesome Mix Main/082 - Netra Aryal - Ram Ram Marauti.mp3
+394:Mix/Awesome Mix Main/083 - Varsha Thapa - Maaya.mp3
+395:Mix/Awesome Mix Main/084 - SUSHANT KC - Behos.mp3
+396:Mix/Awesome Mix Main/085 - The Edge Band - Nachahe Ko Hoina.mp3
+397:Mix/Awesome Mix Main/086 - Melina Rai - Ajambari.mp3
+398:Mix/Awesome Mix Main/087 - Kamal Khatri - Fikka Fikka.mp3
+399:Mix/Awesome Mix Main/088 - Bipul Chettri - Junkeri.mp3
+400:Mix/Awesome Mix Main/089 - Pramod Kharel - Dhoka Diyau Timle.mp3
+401:Mix/Awesome Mix Main/090 - Pramod Kharel - Ye Maya.mp3
+402:Mix/Awesome Mix Main/091 - Pramod Kharel - Bhupu Maya 3.mp3
+403:Mix/Awesome Mix Main/092 - Pramod Kharel - Ma Bachekai.mp3
+404:Mix/Awesome Mix Main/093 - Sugam Pokhrel - Kasham Ho Kasham.mp3
+405:Mix/Awesome Mix Main/094 - Swoopna Suman - Timro Aankha.mp3
+406:Mix/Awesome Mix Main/095 - Nepathya - Taal Ko Pani.mp3
+407:Mix/Awesome Mix Main/096 - Raju Lama - Timilai Dekhera.mp3
+408:Mix/Awesome Mix Main/097 - Tarzan Lepcha - Samjhana Birsana.mp3
+409:Mix/Awesome Mix Main/098 - Nepathya - Sirfula Siraima.mp3
+410:Mix/Awesome Mix Main/099 - Raju Lama - Parkhaima.mp3
+411:Mix/Awesome Mix Main/100 - Melina Rai - Aaja Hamro Bhet Bhako Dina.mp3
+412:Mix/Awesome Mix Main/101 - Tara Prakash Limbu - Piratiko Mitho Tirshana.mp3
+413:Mix/Awesome Mix Main/102 - Aashish Sachin - Pirim Nalaune.mp3
+414:Mix/Awesome Mix Main/103 - SUSHANT KC - Risaune Bhaye.mp3
+415:Mix/Awesome Mix Main/104 - Bipul Chettri - Aashish.mp3
+416:Mix/Awesome Mix Main/105 - Sugam Pokhrel - Kaha Chha Ra.mp3
+417:Mix/Awesome Mix Main/106 - Rishi Khadka - Malai Maridinu.mp3
+418:Mix/Awesome Mix Main/107 - DJ Bishow - K Huncha Bhanera.mp3
+419:Mix/Awesome Mix Main/108 - Prabesh Kumar Shrestha - Aau Timi.mp3
+420:Mix/Awesome Mix Main/109 - Sajjan Raj Vaidya - Sasto Mutu.mp3
+421:Mix/Awesome Mix Main/110 - Ekdev Limbu - Sirful 2.mp3
+422:Mix/Awesome Mix Main/112 - Sanup Poudel - Daiba Hey.mp3
+423:Mix/Awesome Mix Main/113 - DJ Snake - SG.mp3
+424:Mix/Awesome Mix Main/115 - salem ilese - PS5.mp3
+425:Mix/Awesome Mix Main/116 - Samir Shrestha - Thamana Haat.mp3
+426:Mix/Awesome Mix Main/118 - SUNMI - Gashina.mp3
+427:Mix/Awesome Mix Main/119 - ITZY - DALLA DALLA.mp3
+428:Mix/Awesome Mix Main/120 - Hemanta Rana - Dubo Phulyo.mp3
+429:Mix/Awesome Mix Main/122 - Melina Rai - Maruni.mp3
+430:Mix/Awesome Mix Main/123 - Saugat Sayar - Najalau Byarthai Chhati.mp3
+431:Mix/Awesome Mix Main/124 - Milan Newar - Timro Man Badliyecha - Bale Entertainment.mp3
+432:Mix/Awesome Mix Main/125 - Ina Wroldsen - Strongest (Alan Walker Remix).mp3
+433:Mix/Awesome Mix Main/126 - Bruno Mars - Just the Way You Are.mp3
+434:Mix/Awesome Mix Main/127 - Ellie Goulding - Love Me Like You Do (From _Fifty Shades Of Grey_).mp3
+435:Mix/Awesome Mix Main/128 - Justin Bieber - Sorry.mp3
+436:Mix/Awesome Mix Main/129 - Imagine Dragons - Believer.mp3
+437:Mix/Awesome Mix Main/130 - DJ Khaled - I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne).mp3
+438:Mix/Awesome Mix Main/131 - Bri Tolani - Why Do I_.mp3
+439:Mix/Awesome Mix Main/132 - Alan Walker - The Drum.mp3
+440:Mix/Awesome Mix Main/133 - Weird Genius - Sweet Scar.mp3
+441:Mix/Awesome Mix Main/135 - Alan Walker - Routine.mp3
+442:Mix/Awesome Mix Main/136 - Elektronomia - Sky High.mp3
+443:Mix/Awesome Mix Main/137 - Fredji - Happy Life.mp3
+444:Mix/Awesome Mix Main/138 - One Direction - What Makes You Beautiful.mp3
+445:Mix/Awesome Mix Main/139 - Swoopna Suman - Baacha Bhayo.mp3
+446:Mix/Awesome Mix Main/141 - Ed Sheeran - Happier.mp3
+447:Mix/Awesome Mix Main/142 - Pratap Das - Phool Hoina.mp3
+448:Mix/Awesome Mix Main/143 - Ariana Grande - 34+35.mp3
+449:Mix/Awesome Mix Main/145 - Saroj Pokharel - Timi Binako Jindagi.mp3
+450:Mix/Awesome Mix Main/146 - Pramod Kharel - Ma Bina Kasai Kasailai Muskil Chha Pokharama.mp3
+451:Mix/Awesome Mix Main/147 - Sugam Pokhrel - Jindagi Nai Bhandina (From _Ae Mero Hajur 3_).mp3
+452:Mix/Awesome Mix Main/148 - Cadmium - Melody.mp3
+453:Mix/Awesome Mix Main/150 - Ashmita Adhikari - KAFAL KAMLA (feat. Zanak Tamrakar).mp3
+454:Mix/Awesome Mix Main/151 - HBN Kismat - Chunumunu.mp3
+455:Mix/Awesome Mix Main/152 - Sam Smith - Too Good At Goodbyes.mp3
+456:Mix/Awesome Mix Main/153 - Ariana Grande - Stuck with U.mp3
+457:Mix/Awesome Mix Main/155 - Johnny Orlando - What If (I Told You I Like You).mp3
+458:Mix/Awesome Mix Main/156 - Shawn Mendes - Imagination.mp3
+459:Mix/Awesome Mix Main/158 - Anne-Marie - 2002.mp3
+460:Mix/Awesome Mix Main/159 - Sophia Angeles - Miss You More.mp3
+461:Mix/Awesome Mix Main/160 - Jex - Where We Started.mp3
+462:Mix/Awesome Mix Main/161 - Luis Fonsi - Despacito.mp3
+463:Mix/Awesome Mix Main/164 - Dua Lipa - Kiss and Make Up.mp3
+464:Mix/Awesome Mix Main/168 - SUSHANT KC - Baimani.mp3
+465:Mix/Awesome Mix Main/169 - Subani Moktan - Mathilo Lekma (Selo Tone).mp3
+466:Mix/Awesome Mix Main/170 - Avyukkta - Shreemaan Gambhira.mp3
+467:Mix/Awesome Mix Main/171 - Madison Beer - Selfish (Alan Walker Remix).mp3
+468:Mix/Awesome Mix Main/172 - Ariana Grande - Problem.mp3
+469:Mix/Awesome Mix Main/173 - Akash Khadka - Timi Bhayera.mp3
+470:Mix/Awesome Mix Main/174 - Bilal Saeed - Uchiyaan Dewaraan.mp3
+471:Mix/Awesome Mix Main/175 - Momina Mustehsan - Tera Woh Pyar (Nawazishein Karam).mp3
+472:Mix/Awesome Mix Main/176 - Ariana Grande - God is a woman.mp3
+473:Mix/Awesome Mix Main/177 - Calvin Harris - One Kiss.mp3
+474:Mix/Awesome Mix Main/178 - Ariana Grande - One Last Time.mp3
+475:Mix/Awesome Mix Main/179 - Ariana Grande - The Way.mp3
+476:Mix/Awesome Mix Main/180 - Ariana Grande - Break Free.mp3
 playlist_end

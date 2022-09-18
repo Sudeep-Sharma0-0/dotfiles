@@ -1,13 +1,11 @@
 exec wmname LG3D &
 exec wmname &
 
-# init keyring
 eval $(/usr/bin/gnome-keyring-daemon --start --components=gpg,pkcs11,secrets,ssh) &
-# export keyring
 export GNOME_KEYRING_CONTROL GNOME_KEYRING_PID GPG_AGENT_INFO SSH_AUTH_SOCK &
 
 xrdb ~/.Xresources &
 
-exec bspc wm -r &
+nitrogen --restore &
 
-exec dbus-launch bspwm
+dbus-launch xmonad

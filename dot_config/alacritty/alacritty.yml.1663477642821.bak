@@ -143,25 +143,30 @@ font:
 #draw_bold_text_with_bright_colors: false
 # Colors (Tomorrow Night Bright)
 colors:
+  name: Euphrasia
+  author: ""
   primary:
-    background: '#1e222a'
-    foreground: "#CBCCC6"
+    background: "#cfcfd9"
+    foreground: "#1c2027"
+  cursor:
+    text: "#cfcfd9"
+    cursor: "#1c2027"
   normal:
-    black: "#1e222a"
-    red: "#ff4c6d"
-    green: "#8ad770"
-    yellow: "#fe9546"
-    blue: "#4892fb"
-    magenta: "#9f7ce9"
-    cyan: "#7ed4b7"
-    white: "#C7C7C7"
+    black: "#192033"
+    red: "#a62a3e"
+    green: "#38912b"
+    yellow: "#b27d12"
+    blue: "#355c9a"
+    magenta: "#7c4f9f"
+    cyan: "#258f8f"
+    white: "#77858c"
   bright:
-    black: "#606060"
-    red: "#f07b85"
-    green: "#c3e579"
-    yellow: "#ffd580"
-    blue: "#7cb8f5"
-    magenta: "#c695c6"
-    cyan: "#9ee9d0"
-    white: "#FFFFFF"
-theme: 3024.dark
+    black: "#666666"
+    red: "#f04758"
+    green: "#93c724"
+    yellow: "#ddb62b"
+    blue: "#45a3e6"
+    magenta: "#c953ef"
+    cyan: "#60c6c8"
+    white: "#c0c0c0"
+theme: Euphrasia
