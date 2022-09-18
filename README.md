@@ -1,6 +1,6 @@
 # dotfiles
 
-<a href="https://imgur.com/js1ekDY"><img src="https://i.imgur.com/js1ekDY.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/js1ekDY"><img src="https://i.imgur.com/d9GeYeN.png" title="source: imgur.com" /></a>
 
 <br>
 
